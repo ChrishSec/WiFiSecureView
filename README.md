@@ -4,11 +4,11 @@ WiFiSecureView is a simple Tool that allows you to view available WiFi networks 
 
 ### Usage
 
-1. Download the `WiFiSecureView.exe` file from the [releases](https://github.com/ChrishSec/WiFiSecureView/releases/download/v1.0.0/WiFiSecureView_1.0.0.zip) page.
-2. Run the `WiFiSecureView.exe` file.
-3. A window will display a list of available WiFi networks.
-4. Select a network from the list to view its password.
-5. Click the "Save to File" button to save WiFi network information to a text file (`WiFiSecureView.txt`).
+- Download the `WiFiSecureView.exe` file from the [releases](https://github.com/ChrishSec/WiFiSecureView/releases/download/v1.0.0/WiFiSecureView_1.0.0.zip) page.
+- Run the `WiFiSecureView.exe` file.
+- A window will display a list of available WiFi networks.
+- Select a network from the list to view its password.
+- Click the "Save to File" button to save WiFi network information to a text file (`WiFiSecureView.txt`).
 
 ### Screenshots
 
