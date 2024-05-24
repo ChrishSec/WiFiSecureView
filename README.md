@@ -1,6 +1,6 @@
 ## WiFiSecureView
 
-WiFiSecureView is a simple useless Tool that allows you to view available WiFi networks and retrieve their passwords on Windows.
+WiFiSecureView is a simple Tool that allows you to view available WiFi networks and retrieve their passwords on Windows.
 
 ### Usage
 
